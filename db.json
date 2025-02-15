@@ -49,6 +49,14 @@
       "name": "Jennifer Schaffner",
       "description": "This dog sure likes her walks!",
       "itemId": "2"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Person",
+      "id": "3",
+      "name": "Emo Phillips",
+      "description": "I wonder what will happen to the search now!",
+      "itemId": "3"
     }
   ],
   "collection": {
